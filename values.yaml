@@ -1,0 +1,3 @@
+name: test-secretstore
+vaulturl: "http://vault.test"
+serviceaccountname: test-serviceaccount
