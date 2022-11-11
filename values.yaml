@@ -1,3 +1,8 @@
+# -- the secretstore name
 name: test-secretstore
+
+# -- the url to the azure key_vault
 vaulturl: "http://vault.test"
+
+# -- the name of the serviceaccount used to access the key_vault
 serviceaccountname: test-serviceaccount
